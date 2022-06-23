@@ -1,7 +1,6 @@
-            ### Hi 👋, I'm Sahil
+### Hi 👋, I'm Sahil
 
-#### An Android Developer from India
-
+### An Android Developer from India
 
 - 💬 Ask me about Kotlin, java
 - 📫 How to reach me: sahilkhiwal07@gmail.com
