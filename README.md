@@ -1,10 +1,10 @@
-### Hi 👋, I'm Sahil
+            ### Hi 👋, I'm Sahil
 
 #### An Android Developer from India
 
 
-💬 Ask me about Kotlin, java
-📫 How to reach me: sahilkhiwal07@gmail.com
+- 💬 Ask me about Kotlin, java
+- 📫 How to reach me: sahilkhiwal07@gmail.com
 
 <!--
 **sahilkhiwal07/sahilkhiwal07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
