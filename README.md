@@ -5,14 +5,14 @@
 
 - 🔭 I’m currently working on **Weather Forecast App**
 
-- 💬 Ask me about **Kotlin, Java**
+- 💬 Ask me about **Android, Kotlin**
 
 - 📫 How to reach me **sahilkhiwal07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sahil khiwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil khiwal" height="30" width="40" /></a>
-<a href="https://fb.com/sahil khiwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahil khiwal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sahil-khiwal-ab83b1182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-khiwal-ab83b1182" height="30" width="40" /></a>
+<a href="https://fb.com/sahil.khiwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahil.khiwal" height="30" width="40" /></a>
 <a href="https://instagram.com/sahilkhiwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahilkhiwal" height="30" width="40" /></a>
 </p>
 
